@@ -1,0 +1,48 @@
+item.pickaxeBone.name=Bone Pickaxe
+
+item.coal_dust.name=Coal Dust
+item.coal_ingot.name=Coal Ingot
+
+item.chromedigizoid_dust.name=Chromedigizoid Dust
+item.chromedigizoid_ingot.name=Chromedigizoid Ingot
+tile.chromedigizoid_ore.name=Chromedigizoid Ore
+item.pickaxeChromedigizoid.name=Chromedigizoid Pickaxe
+
+item.copper_dust.name=Copper Dust
+item.copper_ingot.name=Copper Ingot
+tile.copper_ore.name=Copper Ore
+item.pickaxeCopper.name=Copper Pickaxe
+
+item.digitus_catalyst.name=[WIP] Digitus Catalyst
+
+item.gold_dust.name=Gold Dust
+
+item.iron_dust.name=Iron Dust
+
+item.lead_dust.name=Lead Dust
+item.lead_ingot.name=Lead Ingot
+tile.lead_ore.name=Lead Ore
+item.pickaxeLead.name=Lead Pickaxe
+
+item.magicite_dust.name=Magicite Dust
+item.magicite_ingot.name=Magicite Ingot
+tile.magicite_ore.name=Magicite Ore
+item.pickaxeMagicite.name=Magicite Pickaxe
+
+item.mecha_dust.name=Mecha Dust
+item.mecha_ingot.name=Mecha Ingot
+tile.mecha_ore.name=Mecha Ore
+item.pickaxeMecha.name=Mecha Pickaxe
+
+item.meowium_dust.name=Meowium Dust
+item.meowium_ingot.name=Meowium Ingot
+tile.meowium_ore.name=Meowium Ore
+item.pickaxeMeowium.name=Meowium Pickaxe
+
+itemGroup.tabPatch=Patch
+item.patchItem.name=Patch
+
+item.steel_dust.name=Steel Dust
+item.hammerSteel.name=Steel Hammer
+item.steel_ingot.name=Steel Ingot
+item.pickaxeSteel.name=Steel Pickaxe
